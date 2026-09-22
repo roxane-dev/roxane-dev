@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Roxane
 
-<!--
-**roxane-dev/roxane-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with a Bachelor's degree in Computer Science (Option: Application Development) from HELHa (Haute École Louvain en Hainaut).
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript, JavaScript, SQL, HTML/CSS, PHP
+- **Frameworks:** Spring Boot, Angular, JavaFX
+- **Tools:** Git, REST APIs, PostgreSQL / MySQL
+
+---
+
+## 🚀 Key Projects
+
+### 📱 [Troc'App](https://github.com/roxane-dev/troc-app)
+*Full-Stack Web Application (Angular & Java Spring Boot)*
+- Object exchange platform with location-based search and transaction management.
+- User authentication, CRUD operations, and REST API integration.
+
+### 🩺 [Les Jeudis de la Biologie Médicale](https://github.com/roxane-dev/jeudis-biologie)
+*Web Platform (Angular & PHP)*
+- Conference and event management platform.
+- Handles user registrations, schedule visualization, and sponsor integration.
+
+### ⚔️ [Weapon & Character Management System](https://github.com/roxane-dev/weapon-manager)
+*Desktop Application (Java & JavaFX)*
+- Inventory and character profile management system demonstrating Object-Oriented Programming (OOP) concepts.
+
+---
+
+## 📫 Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/roxane-liebecq](https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/roxane-liebecq/ )
