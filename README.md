@@ -30,4 +30,4 @@ Full-Stack Developer with a Bachelor's degree in Computer Science (Option: Appli
 
 ## 📫 Contact & Links
 
-- **LinkedIn:** [linkedin.com/in/roxane-liebecq]((https://www.linkedin.com/in/roxane-liebecq/ )
+- **LinkedIn:** [linkedin.com/in/roxane-liebecq](https://www.linkedin.com/in/roxane-liebecq/ )
